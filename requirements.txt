@@ -1,0 +1,7 @@
+langchain
+langchain-core
+
+langchain-huggingface
+langchain-google-genai
+
+python-dotenv
