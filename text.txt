@@ -1,0 +1,3 @@
+why is this file even here?
+
+Maybe to test the text loader of langchain
